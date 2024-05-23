@@ -1,4 +1,5 @@
 # ザコ輪読会　競プロ編
+## 0. forkしろ
 ## 1. `docker-compose up -d`しろ
 ## 2. 参考書籍
 ### オンラインジャッジではじめるC/C++プログラミング入門( https://amzn.asia/d/8k3SciJ)
