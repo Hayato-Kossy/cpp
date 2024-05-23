@@ -1,1 +1,1 @@
-```docker-compose up -d```しろ
+`docker-compose up -d`しろ
